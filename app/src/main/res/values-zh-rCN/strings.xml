@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">综合生活资讯客户端</string>
+    <string name="username">用户名</string>
+    <string name="sign_in">登录</string>
+    <string name="password">密码</string>
+    <string name="sign_up">注册</string>
+    <string name="login_title"> 欢迎登录</string>
+    <string name="username_new">输入一个新的用户名</string>
+    <string name="password_new">输入一个新的密码</string>
+    <string name="password_confirm">确认您的新密码</string>
+    <string name="register">完成注册</string>
+    <string name="net_unavailable">网络不可用</string>
+    <string name="password_not_match">密码不匹配</string>
+    <string name="welcome_main">欢迎使用！</string>
+    <string name="news">新闻资讯</string>
+    <string name="weather">天气信息</string>
+    <string name="travel">旅游资讯</string>
+    <string name="housing">房产信息</string>
+    <string name="help_menu">帮助</string>
+    <string name="about_page">关于</string>
+
+    <array name="tab_title">
+        <item>新闻</item>
+        <item>财经</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>科技</item>
+        <item>历史</item>
+        <item>凤凰要闻</item>
+
+    </array>
+</resources>
